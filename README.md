@@ -12,5 +12,8 @@ Explorando uma IA Generativa em um Pipeline de ETL com Python onde:
 - _**OpenAi**: Exploraremos a IA Generativa dentro do nosso contexto de criação de mensagens personalizadas para usuários_
 - _**RESTful API Java**: API de código aberto utilizada para criação de nossos dados_
 
-### Links
+## Links
+[Repositório da API](github.com/digitalinnovationone/santander-dev-week-2023-api)
+:electron:
+## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-guernelli-9937a8209/)
